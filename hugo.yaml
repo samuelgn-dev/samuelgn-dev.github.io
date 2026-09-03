@@ -1,6 +1,6 @@
 baseURL: https://samuelgn-dev.github.io/
 locale: en-ca
-title: My New Hugo Project
+title: samuelgn
 theme: ["PaperMod"]
 
 caches:
