@@ -2,3 +2,7 @@ baseURL: https://samuelgn-dev.github.io/
 locale: en-ca
 title: My New Hugo Project
 theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
